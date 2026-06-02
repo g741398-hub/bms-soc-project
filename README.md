@@ -14,5 +14,5 @@ Projeto de estimação de SoC para célula LG 18650HG2 com validação experimen
 - lightweight models (DT): [[link]](https://github.com/g741398-hub/bms-soc-project/blob/main/lightweight-models%20(1).ipynb)
 - validação firmware: https://github.com/g741398-hub/bms-soc-project/blob/main/valida-o-notebooks-soc%20(1).ipynb
 - validação soc: https://github.com/g741398-hub/bms-soc-project/blob/main/valida-o-notebooks-soc%20(1).ipynb
-
+ . soh: https://github.com/g741398-hub/bms-soc-project/blob/main/validacao-soc-2-6-ah.ipynb
 
