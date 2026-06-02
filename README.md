@@ -1,5 +1,3 @@
-# bms-soc-project
-bms-soc-project with 
 # BMS SoC Project
 
 Projeto de estimação de SoC para célula LG 18650HG2 com validação experimental em ESP32.
