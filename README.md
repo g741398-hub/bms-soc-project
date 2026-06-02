@@ -4,7 +4,7 @@ Projeto de estimação de SoC para célula LG 18650HG2 com validação experimen
 
 ## Conteúdo
 - `notebooks/` — notebooks de treino/validação
-- `firmware/` — firmware usado no Ensaio 1
+- `firmware/` — firmwares
 
 ## Notebooks Kaggle
 - private/full dataset preprocessing: https://github.com/g741398-hub/bms-soc-project/blob/main/dhakal-full%20(2).ipynb
