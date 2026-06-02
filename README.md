@@ -5,7 +5,6 @@ bms-soc-project with
 Projeto de estimação de SoC para célula LG 18650HG2 com validação experimental em ESP32.
 
 ## Conteúdo
-- `firmware/` — firmware usado no Ensaio 1
 - `notebooks/` — notebooks de treino/validação
 -
 
