@@ -15,6 +15,4 @@ Projeto de estimação de SoC para célula LG 18650HG2 com validação experimen
 - validação firmware: https://github.com/g741398-hub/bms-soc-project/blob/main/valida-o-notebooks-soc%20(1).ipynb
 - validação soc: https://github.com/g741398-hub/bms-soc-project/blob/main/validacao-soc-2-6-ah.ipynb
 
-## Nota
-No Ensaio 1, o firmware usado calcula SoC por OCV + LUT + Coulomb Counting.
-A integração da DT no firmware corresponde a uma fase posterior.
+
