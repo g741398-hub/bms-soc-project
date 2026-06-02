@@ -11,7 +11,7 @@ Projeto de estimação de SoC para célula LG 18650HG2 com validação experimen
 
 ## Notebooks Kaggle
 - private/full dataset preprocessing: [link]
-- baseline RF/ANN: [link]
+- baseline RF/ANN: [[link]](https://github.com/g741398-hub/bms-soc-project/blob/main/baseline-models-rf-ann-1%20(2).ipynb)
 - lightweight models (DT): [link]
 -validação 
 
