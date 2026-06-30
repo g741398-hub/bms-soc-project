@@ -6,6 +6,8 @@ Projeto de estimação de Estado de Carga (SoC) para uma célula LG 18650HG2, co
 - `notebooks/` — notebooks de treino/validação
 - `firmware/` — firmwares
 
+  
+
 ## Notebooks Kaggle
 
 - Baselines Random Forest e MLP: [baseline-models-rf-ann.ipynb](./baseline-models-rf-ann-1%20(1).ipynb)
@@ -14,11 +16,14 @@ Projeto de estimação de Estado de Carga (SoC) para uma célula LG 18650HG2, co
 - Validação preliminar do firmware e das estimativas de SoC — Ensaio 1: [valida-o-notebooks-soc (1).ipynb](./valida-o-notebooks-soc%20(1).ipynb)
 - Análise exploratória de capacidade para referência de 2,6 Ah: [validacao-soc-2-6-ah.ipynb](./validacao-soc-2-6-ah.ipynb)
 
+
   
 ## Firmwares
 - Firmware final — DT depth 6, LUT, contagem de coulombs e CSV: [Firmware_ESP32_DT_pkl_depth6_operacional.ino](./Firmware_ESP32_DT_pkl_depth6_operacional.ino)
 
 - Firmware preliminar — Ensaio 1, LUT, contagem de coulombs e MAX17048: [Firmware_ESP32_Ensaio1_OCV_MAX17048.ino](./Firmware_ESP32_Ensaio1_OCV_MAX17048.ino)
+
+
 
 ## Dados experimentais
 
@@ -31,5 +36,7 @@ Projeto de estimação de Estado de Carga (SoC) para uma célula LG 18650HG2, co
 ### Ensaio preliminar
 
 - Ensaio 1 — validação inicial de aquisição e estimativas de SoC: [log_001.csv](./log_001.csv)
+
+  
 ## Nota
 O firmware Firmware_ESP32_DT_pkl_depth6_operacional.ino foi usado nos ensaios finais com cargas de 10 Ω, 15 Ω e 22 Ω. O firmware do Ensaio 1 é mantido apenas como registo da fase preliminar de aquisição e não inclui a Árvore de Decisão final.
