@@ -13,8 +13,7 @@ Projeto de estimação de Estado de Carga (SoC) para uma célula LG 18650HG2, co
 - validação firmware: https://github.com/g741398-hub/bms-soc-project/blob/main/valida-o-notebooks-soc%20(1).ipynb
 - validação soc: https://github.com/g741398-hub/bms-soc-project/blob/main/valida-o-notebooks-soc%20(1).ipynb
 - soh: https://github.com/g741398-hub/bms-soc-project/blob/main/validacao-soc-2-6-ah.ipynb
-- 
- -notebook de validação final — ensaios de 10 Ω, 15 Ω e 22 Ω:  https://github.com/g741398-hub/bms-soc-project/blob/main/validacao-ensaio-dt%20(5).ipynb
+- notebook de validação final — ensaios de 10 Ω, 15 Ω e 22 Ω:  https://github.com/g741398-hub/bms-soc-project/blob/main/validacao-ensaio-dt%20(5).ipynb
   
 ## firmwares
 -firmware final: https://github.com/g741398-hub/bms-soc-project/blob/main/Firmware_ESP32_DT_pkl_depth6_operacional.ino
