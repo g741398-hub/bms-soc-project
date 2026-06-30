@@ -3,9 +3,10 @@
 Projeto de estimação de Estado de Carga (SoC) para uma célula LG 18650HG2, combinando análise offline de dados, modelos de machine learning e validação experimental num protótipo ESP32.
 
 ## Conteúdo
-- `notebooks/` — notebooks de treino/validação
-- `firmware/` — firmwares
 
+- `notebooks` — preparação de dados, treino de modelos, validação experimental e análise exploratória de capacidade;
+- `firmware` — firmware ESP32 preliminar e firmware final com Árvore de Decisão;
+- `dados experimentais` — CSV do Ensaio 1 preliminar e dos ensaios finais com cargas de 10 Ω, 15 Ω e 22 Ω.
   
 
 ## Notebooks Kaggle
