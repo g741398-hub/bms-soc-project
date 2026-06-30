@@ -17,7 +17,11 @@ Projeto de estimação de Estado de Carga (SoC) para uma célula LG 18650HG2, co
 - Validação preliminar do firmware e das estimativas de SoC — Ensaio 1: [valida-o-notebooks-soc (1).ipynb](./valida-o-notebooks-soc%20(1).ipynb)
 - Análise exploratória de capacidade para referência de 2,6 Ah: [validacao-soc-2-6-ah.ipynb](./validacao-soc-2-6-ah.ipynb)
 
+## Modelo selecionado
 
+- Árvore de Decisão de profundidade 6: [dt_soc_light_depth6 (3).pkl](./dt_soc_light_depth6%20(3).pkl)
+
+  
   
 ## Firmwares
 - Firmware final — DT depth 6, LUT, contagem de coulombs e CSV: [Firmware_ESP32_DT_pkl_depth6_operacional.ino](./Firmware_ESP32_DT_pkl_depth6_operacional.ino)
