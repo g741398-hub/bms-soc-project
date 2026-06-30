@@ -15,7 +15,8 @@ Projeto de estimação de Estado de Carga (SoC) para uma célula LG 18650HG2, co
 - soh: https://github.com/g741398-hub/bms-soc-project/blob/main/validacao-soc-2-6-ah.ipynb
 
 ## firmwares
--firmware usado no Ensaio 1 : https://github.com/g741398-hub/bms-soc-project/blob/main/Firmware_ESP32_Ensaio1_OCV_MAX17048.ino
+ -firmware final: https://github.com/g741398-hub/bms-soc-project/blob/main/Firmware_ESP32_DT_pkl_depth6_operacional.ino
+-firmware preliminar : https://github.com/g741398-hub/bms-soc-project/blob/main/Firmware_ESP32_Ensaio1_OCV_MAX17048.ino
 
 ## Nota
 O firmware Firmware_ESP32_DT_pkl_depth6_operacional.ino foi usado nos ensaios finais com cargas de 10 Ω, 15 Ω e 22 Ω. O firmware do Ensaio 1 é mantido apenas como registo da fase preliminar de aquisição e não inclui a Árvore de Decisão final.
