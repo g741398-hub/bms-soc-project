@@ -11,9 +11,8 @@ Projeto de estimação de Estado de Carga (SoC) para uma célula LG 18650HG2, co
 - Baselines Random Forest e MLP: [baseline-models-rf-ann.ipynb](./baseline-models-rf-ann-1%20(1).ipynb)
 - Modelos leves e seleção da DT depth 6: [lightweight-models.ipynb](./lightweight-models%20(1).ipynb)
 - Validação final — 10 Ω, 15 Ω e 22 Ω: [validacao-ensaio-dt.ipynb](./validacao-ensaio-dt.ipynb)
-- validação firmware: https://github.com/g741398-hub/bms-soc-project/blob/main/valida-o-notebooks-soc%20(1).ipynb
-- validação soc: https://github.com/g741398-hub/bms-soc-project/blob/main/valida-o-notebooks-soc%20(1).ipynb
-- soh: https://github.com/g741398-hub/bms-soc-project/blob/main/validacao-soc-2-6-ah.ipynb
+- Validação preliminar do firmware e das estimativas de SoC — Ensaio 1: [valida-o-notebooks-soc (1).ipynb](./valida-o-notebooks-soc%20(1).ipynb)
+- Análise exploratória de capacidade para referência de 2,6 Ah: [validacao-soc-2-6-ah.ipynb](./validacao-soc-2-6-ah.ipynb)
 
   
 ## Firmwares
