@@ -9,7 +9,7 @@ Projeto de estimação de Estado de Carga (SoC) para uma célula LG 18650HG2, co
 - `dados experimentais` — CSV do Ensaio 1 preliminar e dos ensaios finais com cargas de 10 Ω, 15 Ω e 22 Ω.
   
 
-## Notebooks Kaggle
+## Notebooks 
 
 - Baselines Random Forest e MLP: [baseline-models-rf-ann.ipynb](./baseline-models-rf-ann-1%20(1).ipynb)
 - Modelos leves e seleção da DT depth 6: [lightweight-models.ipynb](./lightweight-models%20(1).ipynb)
