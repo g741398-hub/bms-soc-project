@@ -1,6 +1,6 @@
 # BMS SoC Project
 
-Projeto de estimação de SoC para célula LG 18650HG2 com validação experimental em ESP32.
+Projeto de estimação de Estado de Carga (SoC) para uma célula LG 18650HG2, combinando análise offline de dados, modelos de machine learning e validação experimental num protótipo ESP32.
 
 ## Conteúdo
 - `notebooks/` — notebooks de treino/validação
@@ -18,5 +18,4 @@ Projeto de estimação de SoC para célula LG 18650HG2 com validação experimen
 -firmware usado no Ensaio 1 : https://github.com/g741398-hub/bms-soc-project/blob/main/Firmware_ESP32_Ensaio1_OCV_MAX17048.ino
 
 ## Nota
-No Ensaio 1, o firmware usado calcula SoC por OCV + LUT + Coulomb Counting.
-A integração da DT no firmware corresponde a uma fase posterior.
+O firmware Firmware_ESP32_DT_pkl_depth6_operacional.ino foi usado nos ensaios finais com cargas de 10 Ω, 15 Ω e 22 Ω. O firmware do Ensaio 1 é mantido apenas como registo da fase preliminar de aquisição e não inclui a Árvore de Decisão final.
