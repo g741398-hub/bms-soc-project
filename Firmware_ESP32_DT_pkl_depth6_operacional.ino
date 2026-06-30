@@ -129,7 +129,7 @@ static float socFromOcvLut(float ocv) {
 
 */
 /*
- DT gerada automaticamente a partir de dt_soc_light_depth6.pkl.
+  DT convertida de dt_soc_light_depth6.pkl para lógica C/C++.
  Modelo original: DecisionTreeRegressor(max_depth=6, random_state=42).
  Features do treino, nesta ordem: voltage, current, temperature, dv_dt, di_dt.
  Nota: o ESP32 não carrega o .pkl; a árvore treinada foi convertida para lógica C/C++.
